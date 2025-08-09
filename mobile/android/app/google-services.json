@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101316800634",
+    "project_id": "wagon-project-9517a",
+    "storage_bucket": "wagon-project-9517a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101316800634:android:af5048ce1d555be7ce8bc3",
+        "android_client_info": {
+          "package_name": "com.daniel.wagontasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DSmL6tB-VLS-TMXSR_guSaUqazNsdQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
