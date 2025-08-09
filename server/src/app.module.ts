@@ -14,7 +14,7 @@ import { AppService } from './app.service';
         rejectUnauthorized: false, 
       },
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
-      synchronize: false, 
+      synchronize: true, 
     }),
     AuthModule,
     TasksModule,
