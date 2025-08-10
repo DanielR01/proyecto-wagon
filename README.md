@@ -29,8 +29,8 @@ Estas son las instrucciones para que un revisor pueda ejecutar la aplicaci√≥n m√
 Clonar el repositorio y navegar a la carpeta mobile:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio/mobile
+git clone https://github.com/DanielR01/proyecto-wagon
+cd proyecto-wagon/mobile
 ```
 
 Instalar dependencias de Flutter:
