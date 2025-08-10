@@ -16,7 +16,7 @@ Este repositorio contiene la solución a la prueba técnica para el puesto de So
 
 | Editar Tarea | Tarea Editada | Añadir Tarea |
 | :---------------: | :-------------: | :-----------------: |
-| ![Pantalla de Login](screenshots/editar.png) | ![Lista de Tareas](screenshots/lista.png) | ![Pantalla de Añadir/Editar Tarea](screenshots/crear_tarea.png) |
+| ![Pantalla de Login](screenshots/editar.png) | ![Lista de Tareas](screenshots/editada.png) | ![Pantalla de Añadir/Editar Tarea](screenshots/crear_tarea.png) |
 
 ## Probar la App Directamente (Conectada a Producción)
 Estas son las instrucciones para que un revisor pueda ejecutar la aplicación móvil y probarla directamente con el backend ya desplegado, sin necesidad de configurar un entorno local.
